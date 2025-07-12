@@ -1,0 +1,19 @@
+#COMANDOS TERMINAL PARA DEVS NODEJS
+del * : deleta tudo, se ao inves de * passar um caminho, ele deleta esse caminho. tem que ficar atento se está na pasta correta.
+ls: lista diretorios de uma pasta.
+cls/clear: clear the terminal
+cd (change directory): mudar em qual pasta está -> cd .. (dois pontos) volta uma pasta. cd nome_pasta: vai para essa pasta
+mkdir (make directory): cria uma pasta/diretorio 
+code . (code 'ponto'): abre uma nova instancia do vs code naquela pasta
+code nome_pasta: abre o vs code na pasta.
+
+#COMANDOS NPM E NODE
+npm init: cria o projeto
+npm init --y: cria o projeto aceitando todas as respostas padrao
+node nome_arquivo: executa o que está nesse arquivo 
+node --watch caminho_arquivo: o node vai ficar vigiando esse arquivo, e atualizar sozinho as alterações
+para desligar o --watch, é só apertar crtl + c. 
+
+aperte crtl e passe a mouse para entender o que está dentro de uma function.
+alt + shift mais seta pra baixo copia a linha pra baixo (seta pra cima, copia pra cima)
+shift+alt+A = comenta a seleção
